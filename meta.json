@@ -1,0 +1,40 @@
+{
+  "templateKey": "home_services",
+  "heroVariant": "editorial-overlap",
+  "serviceLayout": "typography-grid",
+  "ctaStyle": "solid",
+  "paletteSeed": 1,
+  "heroSeed": 1,
+  "copySeed": 3,
+  "resolvedVisualDirection": {
+    "palette_source": "design_direction",
+    "palette_key": "forest-earth",
+    "palette": {
+      "primary": "#2d5a3d",
+      "primaryDark": "#1a3826",
+      "accent": "#b8875a",
+      "textDark": "#1c231d",
+      "textOnPrimary": "#ffffff",
+      "bgLight": "#faf8f3",
+      "bgAlt": "#f0ece2",
+      "border": "#ddd4c4",
+      "radius": "6px",
+      "ctaStyle": "solid",
+      "headingFont": "Fraunces",
+      "bodyFont": "Inter",
+      "googleFonts": "Fraunces:wght@600;700;800|Inter:wght@400;500;600"
+    },
+    "hero_variant": "editorial-overlap",
+    "section_style": "card-heavy",
+    "image_category": "tree-care",
+    "matched_keywords": [
+      "forest",
+      "forest green",
+      "earth",
+      "earth tone",
+      "natural",
+      "arborist",
+      "tree"
+    ]
+  }
+}
